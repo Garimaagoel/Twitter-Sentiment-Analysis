@@ -22,5 +22,5 @@ The sentiment analysis model is trained on a large Twitter dataset that consists
 
 ## Model Evaluation
 
-The performance of the sentiment analysis model has been evaluated using standard evaluation metrics such as accuracy, precision, recall, and F1-score. The evaluation results are available in the repository, along with a detailed report explaining the model's performance on the test data.
+The performance of the sentiment analysis model has been evaluated using standard evaluation metrics such as accuracy, precision, recall, and F1-score. 
 
